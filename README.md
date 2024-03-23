@@ -6,4 +6,5 @@
 ##### This is a Level 5 heading.
 ###### This is a Level 6 heading.
 
--[ ] This is a checklist. 
+- [ ] This is a checklist. 
+- [ ] This is a checklist too.
